@@ -2,7 +2,7 @@
 
 Python code used for the analysis in:
 
-**Ethan B. Li and Chris J. Regan, “One market-volume cap or one per battery? A formal decomposition of multi-asset battery backtests in Great Britain.”**
+**“One market-volume cap or one per battery? A formal decomposition of multi-asset battery backtests in Great Britain.”**
 
 The manuscript and full research package are archived on Zenodo:
 
