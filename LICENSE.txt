@@ -5,9 +5,7 @@ this repository. It does not cover the manuscript, data, figures, saved results
 or third-party material in the Zenodo package. Those files remain subject to the
 terms stated on Zenodo and by the original data providers.
 
-MIT License
-
-Copyright (c) 2026 Ethan B. Li and Chris J. Regan
+MIT License Copyright (c) 2026 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
