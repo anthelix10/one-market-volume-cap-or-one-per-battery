@@ -113,5 +113,3 @@ It can be checked without extracting it:
 python code/verify_inputs_from_raw_archive.py \
   --raw-archive /path/to/elexon_mid_pn_b1610_raw_responses_2023_2025.zip
 ```
-
-GitHub also reads `CITATION.cff` and shows the same citation through its **Cite this repository** menu.
