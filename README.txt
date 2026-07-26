@@ -17,8 +17,6 @@ The Zenodo record contains the processed inputs, saved results, supporting mater
 - `code/` contains the analysis, checking and figure scripts.
 - `requirements.txt` lists the Python packages used by the scripts.
 - `code/README.txt` gives a short description of each script.
-- `.github/workflows/code-check.yml` runs a basic code check on GitHub.
-- `CITATION.cff` supplies the citation shown by GitHub.
 - `LICENSE.txt` covers the source code in this repository.
 
 The manuscript, data and saved outputs are not copied here because they are already included in the Zenodo package.
